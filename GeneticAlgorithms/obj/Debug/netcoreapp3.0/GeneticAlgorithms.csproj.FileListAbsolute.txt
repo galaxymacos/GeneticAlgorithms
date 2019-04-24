@@ -1,0 +1,12 @@
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\bin\Debug\netcoreapp3.0\GeneticAlgorithms.exe
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\bin\Debug\netcoreapp3.0\GeneticAlgorithms.deps.json
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\bin\Debug\netcoreapp3.0\GeneticAlgorithms.runtimeconfig.json
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\bin\Debug\netcoreapp3.0\GeneticAlgorithms.runtimeconfig.dev.json
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\bin\Debug\netcoreapp3.0\GeneticAlgorithms.dll
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\bin\Debug\netcoreapp3.0\GeneticAlgorithms.pdb
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\obj\Debug\netcoreapp3.0\GeneticAlgorithms.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\obj\Debug\netcoreapp3.0\GeneticAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\obj\Debug\netcoreapp3.0\GeneticAlgorithms.AssemblyInfoInputs.cache
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\obj\Debug\netcoreapp3.0\GeneticAlgorithms.AssemblyInfo.cs
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\obj\Debug\netcoreapp3.0\GeneticAlgorithms.dll
+C:\Users\galax\RiderProjects\GeneticAlgorithms\GeneticAlgorithms\obj\Debug\netcoreapp3.0\GeneticAlgorithms.pdb
